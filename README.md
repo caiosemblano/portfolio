@@ -22,7 +22,7 @@ Software desenvolvido em Python, utilizando Google Colab e Pix2Pix GAN, com foco
 - 📊 Ideal para melhorar modelos de classificação e segmentação de imagens
 - ☁️ Executado diretamente em Google Colab
 
-🔗 **Repositório:** [github.com/seuusuario/data-augmentor-ia](https://github.com/caiosemblano/data-augmentor-ia) 
+🔗 **Repositório:** [github.com/caiosemblano/data-augmentor-ia](https://github.com/caiosemblano/data-augmentor-ia) 
 
 ---
 
@@ -38,7 +38,7 @@ Software desenvolvido em Python, utilizando Google Colab e Pix2Pix GAN, com foco
 
 ## 📫 Contato
 
-- [LinkedIn](https://www.linkedin.com/in/caio-semblano)
-- [GitHub](https://github.com/caiosemblano)
+- [LinkedIn](https://www.linkedin.com/in/caio-semblano) https://www.linkedin.com/in/caio-semblano
+- [GitHub](https://github.com/caiosemblano) https://github.com/caiosemblano
 - Email: semblanocaio@gmail.com
 
